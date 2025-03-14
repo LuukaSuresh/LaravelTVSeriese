@@ -43,9 +43,23 @@ Welcome to the **TV Series Management System**! This is a web application built 
 - MySQL
 - Laravel CLI
 
-### Steps to Run the Project
+- 🤝 Contributing
+Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/tv-series-management.git
-   cd tv-series-management
+Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeatureName).
+
+Commit your changes (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature/YourFeatureName).
+
+Open a pull request.
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🎉 Thank You!
+Thank you for checking out the TV Series Management System! If you have any questions or feedback, feel free to open an issue or reach out to me. Happy coding! 🚀
+
+Made with ❤️ by Suresh Madushan
